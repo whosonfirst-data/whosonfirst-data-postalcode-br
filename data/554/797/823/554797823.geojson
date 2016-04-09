@@ -1,0 +1,54 @@
+{
+  "id": 554797823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"BR",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566457,
+        85633009,
+        101955947,
+        102061443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12818810"
+    },
+    "wof:country":"BR",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061443,
+            "localadmin_id":404566457,
+            "locality_id":101955947,
+            "postalcode_id":554797823,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":554797823,
+    "wof:lastmodified":1460099073,
+    "wof:name":"14590",
+    "wof:parent_id":"101955947",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
